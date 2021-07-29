@@ -1,4 +1,4 @@
-# WavePlayer <img src="C:\Users\Kristyna\Documents\Skola\MFF_UK\Rocnik_2\Programovani_C++\ZS\Zapoctovy_program\Test\lhotanova\Zapoctovy_program\WavePlayer\Zapoctovy_program\WavePlayer\WavePlayer\WavePlayer.png" width="50" height="50" />
+# WavePlayer <img src=".\WavePlayer\WavePlayer.png" width="50" height="50" />
 
 `Windows`	`Win32 API`	`C++ 17`
 
